@@ -6,4 +6,4 @@ jobs:
       runs-on: ubuntu-latest
       steps:
       - name: first_step
-      - run: echo "hello this is my test github runner" 
+        run: echo "hello this is my test github runner" 
